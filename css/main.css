@@ -13,7 +13,7 @@ header{height:50px; background-color: #ffffff; border: 0px so,id #000000;
 h1{color: black; line-height: 50px; float: left;}
 .menu{float:right;}
 .menu li{float:left;}
-.menu a{line-height:50px; color: black; padding: 0 20px; display: block;}
+.menu a{line-height:50px; color: black; padding: 0 30px; display: block;}
 
 
 img{
