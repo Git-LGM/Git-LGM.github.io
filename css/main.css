@@ -2,42 +2,37 @@
 *{margin: 0; padding: 0;}
 li{list-style: none;}
 a{text-decoration: none;}
-
 .wrapper{width: 1170px;}
-.clearfix{content: ''; display: block; clear: both;}
 
 
-header{height:50px; background-color: #ffffff; border: 0px so,id #000000;
-      position: absolute; width: 100%; z-index: 0; top:0; left: 0;}
+header{height:50px; 
+  background-color: #ffffff; 
+  border: 0px so,id #000000;
+  position: absolute; 
+  width: 100%; z-index: 0; 
+  top:0; 
+  left: 0;}
 
 h1{color: black; 
   line-height: 50px; 
-  float: left;
-}
+  float: left;}
 .menu{float:right;}
 .menu li{float:left;}
-.menu a{
-  line-height:50px; color: black; 
+.menu a{line-height:50px; color: black; 
   padding: 0 30px; 
   display: block;
   background-color: #ffffff;
-  background-color: #8ad0ff;
-}
+  background-color: #8ad0ff;}
+
 .menu a{background-color: #ffffff;}
-.menu a:hover, menu a:active{ background-color: #8ad0ff; }
+.menu a:hover, menu a:active{background-color: #8ad0ff;}
 
-img{
-  z-index: 1;
-}
+img{z-index: 1;}
 
-.logo {
-position: absolute;
-margin-top: -9px;
-z-index: 1;
-}
+.logo {position: absolute;
+  margin-top: -9px;
+  z-index: 1;}
 
-.banner {
-position: absolute;
-margin-top: 50px;
-z-index: 1;
-}
+.banner {position: absolute;
+  margin-top: 50px;
+  z-index: 1;}
