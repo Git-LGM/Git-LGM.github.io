@@ -3,7 +3,7 @@
 
 > 깃허브 사이트 링크 : https://git-lgm.github.io/   
 
-> 구름 IDE 편집기 링크 : https://goor.me/Xj35y   
+> 구름 IDE 편집기 링크 : https://goor.me/eH9Dw (로그인 필요)
 > 구름 IDE 사이트 링크 : https://hwajung-uyzzi.run.goorm.io/hwajung/   
 
 ---------------------------------------
