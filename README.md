@@ -8,7 +8,7 @@
 
 ---------------------------------------
 
-> 사이트 구상 링크 : https://docs.google.com/drawings/d/1AwQw0lxCS-cQP0UxTbulpv41JqP6oKZqNzgF78FqeOw/edit?usp=sharing   
-> 사이트 구상 링크2 : https://docs.google.com/drawings/d/1CH8F_99x1Ey639jZbpqdspwqT_MhoF82vRJmc2oSdas/edit?usp=sharing   
+> 사이트 구상 링크 :    https://docs.google.com/drawings/d/1AwQw0lxCS-cQP0UxTbulpv41JqP6oKZqNzgF78FqeOw/edit?usp=sharing   
+> 사이트 구상 링크2 :    https://docs.google.com/drawings/d/1CH8F_99x1Ey639jZbpqdspwqT_MhoF82vRJmc2oSdas/edit?usp=sharing   
 
 > images/images.zip 안에 모든 사진 있습니다.  
