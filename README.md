@@ -2,10 +2,10 @@
 =============
 ---------------------------------------
 
-깃허브 사이트 링크 : https://git-lgm.github.io/   
+> 깃허브 사이트 링크 : https://git-lgm.github.io/   
 
-구름 IDE 편집기 링크 : https://goor.me/Xj35y   
-구름 IDE 사이트 링크 : https://hwajung-uyzzi.run.goorm.io/hwajung/   
+> 구름 IDE 편집기 링크 : https://goor.me/Xj35y   
+> 구름 IDE 사이트 링크 : https://hwajung-uyzzi.run.goorm.io/hwajung/   
 
 ---------------------------------------
 images/images.zip 안에 모든 사진 있습니다.   
