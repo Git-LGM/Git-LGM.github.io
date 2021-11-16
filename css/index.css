@@ -10,13 +10,12 @@
   }
 
 h3{
-	margin-left: 670px;
-	margin-top: 800px;
 }
 
 p{
+	position: absolute;
 	font-size : 20px;
 	margin-left: 670px;
-	margin-top: 30px;
+	margin-top: 800px;
 }
 
