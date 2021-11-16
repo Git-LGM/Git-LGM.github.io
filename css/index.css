@@ -6,14 +6,17 @@
 .index2 {
 	position: absolute;
 	margin-top: 800px;
-	margin-left: 900px;
+	margin-left: 960px;
   }
 
+b{
+	font-size : 30px;
+}
 
 p{
 	position: absolute;
 	font-size : 20px;
 	margin-left: 670px;
-	margin-top: 800px;
+	margin-top: 810px;
 }
 
