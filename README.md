@@ -17,4 +17,4 @@
 
 
 
-> hwajung-206-wepsite.web.app 완성본으로 쓸 링크
+> https://hwajung-206-wepsite.web.app/ 완성본으로 쓸 링크
