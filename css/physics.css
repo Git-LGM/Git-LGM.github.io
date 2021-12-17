@@ -1,0 +1,34 @@
+
+
+b{
+	font-size : 30px;
+}
+
+.T1{
+	position: absolute;
+	font-size : 20px;
+	margin-left: 510px;
+	margin-top: 810px;
+}
+.물리1-1{pointer-events: none;
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 810px;
+	width: 300px;}
+.물리1-2{pointer-events: none;
+	position: absolute;
+	margin-left: 700px;
+	margin-top: 810px;
+	width: 300px;}
+.물리1-3{pointer-events: none;
+	position: absolute;
+	margin-left: 1300px;
+	margin-top: 810px;
+	width: 300px;}
+video::-webkit-media-controls-panel {
+display: none !important;
+opacity: 1 !important;}
+
+
+
+
