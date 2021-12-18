@@ -29,9 +29,3 @@ h1{color: black;
 .banner {
 	position: absolute;
   margin-top: 50px;}
-
-h2{
-  z-index: 1;
-  margin-top: 200px;
-  position: absolute;
-  visibility:hidden;}
