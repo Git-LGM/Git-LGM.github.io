@@ -1,4 +1,6 @@
-
+.physics1_banner{
+	position: absolute;
+  margin-top: 780px;}
 
 b{
 	font-size : 30px;
@@ -8,27 +10,36 @@ b{
 	position: absolute;
 	font-size : 20px;
 	margin-left: 510px;
-	margin-top: 810px;
+	margin-top: 1100px;
 }
-.물리1-1{pointer-events: none;
+.physics1-1{pointer-events: none;
 	position: absolute;
 	margin-left: 80px;
-	margin-top: 810px;
+	margin-top: 1100px;
 	width: 300px;}
-.물리1-2{pointer-events: none;
+.physics1-2{pointer-events: none;
 	position: absolute;
 	margin-left: 700px;
-	margin-top: 810px;
+	margin-top: 1100px;
 	width: 300px;}
-.물리1-3{pointer-events: none;
+.physics1-3{pointer-events: none;
 	position: absolute;
 	margin-left: 1300px;
-	margin-top: 810px;
+	margin-top: 1100px;
 	width: 300px;}
 video::-webkit-media-controls-panel {
 display: none !important;
 opacity: 1 !important;}
 
 
+
+.physics2_banner{
+	position: absolute;
+    margin-top: 1700px;}
+
+.physics2-1{pointer-events: none;
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 2000px;}
 
 
