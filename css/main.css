@@ -11,9 +11,6 @@ header{height:50px;
 
 body {background-color: #1D1C22;}
 
-h1{color: black; 
-  line-height: 50px; 
-  float: left;}
 .menu{margin-left: 56.7px;}
 .menu li{float:left;}
 .menu a{line-height:50px; color: black; 
