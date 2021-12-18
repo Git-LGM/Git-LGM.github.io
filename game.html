@@ -11,9 +11,27 @@
   </head>
 
     <body>
-        <div id="square"></div>
+        <header>
+          <div class="wrapper">
+          <a href="index.html"><h1>2-6 학급프로젝트&nbsp&nbsp&nbsp&nbsp&nbsp<h1></a>
+              <nav>
+                <h6>
+                <ul class="menu">
+                  <li><a href = "construct.html"> 건축 </a></li>
+                  <li><a href = "physics.html"> 물리 </a></li>
+                  <li><a href = "earth.html"> 지구 </a></li>
+                  <li><a href = "coding.html"> 코딩 </a></li>
+                  <li><a href = "game.html"> 게임 </a></li>
+                </ul>
+              </h6>
+              </nav>
+            </div>
+          </header>
+          <h2>스마트폰으로 보고 계신 경우 <br>
+          화면을 축소해주세요</h2>
+        <a href="index.html"><img class="logo"src="images/hwajung.png" width="67"></a>
+        <div id="square"></div>   
         <style>
-    
           #square{	  
             position: absolute;
             width: 56px;
@@ -23,22 +41,20 @@
             margin-left: 824px;
             z-index: 0;
            }
+           body {background-color: #ffffff;}
         </style>
-    <h2>
+    <h3>
         스페이스바 : 시작<br><br>
         화살표 : 이동<br><br>
         재시작 : F5
-
-    </h2>
-    <div include-html="overlap.html"></div>
-	<script>includeHTML();</script>
+    </h3>
     <canvas id="gameCanvas" width=300 height=500></canvas>
     <script type="module" src="JS/app.js"></script>
     <style>
         #gameCanvas{
         margin-top: 100px;
         border: 1px solid black;}
-        h2{
+        h3{
         position: absolute;
         margin-top: 200px;
         margin-left: 350px;}
