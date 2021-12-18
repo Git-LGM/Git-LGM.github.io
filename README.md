@@ -13,8 +13,7 @@
 > 사이트 구상 링크2 :   
 > https://docs.google.com/drawings/d/1CH8F_99x1Ey639jZbpqdspwqT_MhoF82vRJmc2oSdas/edit?usp=sharing   
 
-> images/images.zip 안에 모든 사진 
+> images/images.zip 안에 모든 사진 있습니다.
 
 
-abc
 > https://hwajung-206-wepsite.web.app/ 완성본으로 쓸 링크
