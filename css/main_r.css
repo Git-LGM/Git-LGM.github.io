@@ -1,6 +1,4 @@
 @media (max-width: 902px) {
 	#square{visibility:hidden;}
 	.menu{text-shadow: -1px 0 #FFFFFF, 0 1px #FFFFFF, 1px 0 #FFFFFF, 0 -1px #FFFFFF;}
-	h2{visibility:visible;
-	text-shadow: -1px 0 #FFFFFF, 0 1px #FFFFFF, 1px 0 #FFFFFF, 0 -1px #FFFFFF;}
 }
