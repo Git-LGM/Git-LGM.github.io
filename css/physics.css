@@ -94,46 +94,131 @@ b{
 	text-align: center;
 	width: 1300px;
 }
-.T2-1{
+.T11{
 	position: absolute;
 	font-size : 40px;
-	margin-left: 400px;
-	margin-top: 3000px;
+	margin-left: 80px;
+	margin-top: 2350px;
 	color: #B661FE;
-	font-family: "7", sans-serif !important;
+	font-family: "6", sans-serif !important;
 	text-align: center;
 	width: 210px;
 }
-
+.T12{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 100px;
+	margin-top: 2450px;
+	color: #ffffff;
+	font-family: "4", sans-serif !important;
+	text-align: left;
+	width: 750px;
+}
+.T13{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 375px;
+	margin-top: 2600px;
+	color: #ffffff;
+	font-family: "3", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
+.T14{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 975px;
+	margin-top: 2600px;
+	color: #ffffff;
+	font-family: "3", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
+.T15{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 1575px;
+	margin-top: 2600px;
+	color: #ffffff;
+	font-family: "3", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
 .physics1-1{pointer-events: none;
 	position: absolute;
 	margin-left: 50px;
-	margin-top: 3000px;
+	margin-top: 2600px;
 	width: 300px;}
 .physics1-2{pointer-events: none;
 	position: absolute;
 	margin-left: 650px;
-	margin-top: 3000px;
+	margin-top: 2600px;
 	width: 300px;}
 .physics1-3{pointer-events: none;
 	position: absolute;
 	margin-left: 1250px;
-	margin-top: 3000px;
+	margin-top: 2600px;
 	width: 300px;}
+
+.tg1  {border-collapse:collapse;border-spacing:0;
+	margin-top: 3025px;
+	margin-left: 400px;
+	position: absolute;
+	width: 200px;}
+.tg1 td{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+	  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg1 th{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+	  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg1 .tg-1{background-color:#000000;border-color:#ffffff;color:#c161fe;font-family:"4", Helvetica, sans-serif !important;;
+	  text-align:center;vertical-align:top}
+
+.tg2  {border-collapse:collapse;border-spacing:0;
+		margin-top: 2750px;
+		margin-left: 1000px;
+		position: absolute;
+		width: 200px;}
+.tg2 td{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg2 th{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg2 .tg-2{background-color:#000000;border-color:#ffffff;color:#c161fe;font-family:"4", Helvetica, sans-serif !important;;
+		text-align:center;vertical-align:top}
+
+.tg3  {border-collapse:collapse;border-spacing:0;
+		margin-top: 2750px;
+		margin-left: 1565px;
+		position: absolute;
+		width: 276px;}
+.tg3 td{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg3 th{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg3 .tg-3{background-color:#000000;border-color:#ffffff;color:#c161fe;font-family:"4", Helvetica, sans-serif !important;;
+		text-align:left;vertical-align:top}
+	
+.tg4  {border-collapse:collapse;border-spacing:0;
+		margin-top: 2850px;
+		margin-left: 1565px;
+		position: absolute;
+		width: 276px;}
+.tg4 td{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg4 th{border-color:black;border-style:solid;border-width:1px;font-family:"4", sans-serif;font-size:14px;
+		font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg4 .tg-4{background-color:#000000;border-color:#ffffff;color:#c161fe;font-family:"4", Helvetica, sans-serif !important;;
+		text-align:left;vertical-align:top}
 
 video::-webkit-media-controls-panel {
 display: none !important;
 opacity: 1 !important;}
 
-
-
 .physics2_banner{
 	position: absolute;
-    margin-top: 3500px;}
+    margin-top: 3300px;}
 
 .physics2-1{pointer-events: none;
 	position: absolute;
 	margin-left: 80px;
-	margin-top: 3800px;}
+	margin-top: 3600px;}
 
 
