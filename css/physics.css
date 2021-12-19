@@ -144,6 +144,16 @@ b{
 	text-align: center;
 	width: 250px;
 }
+.T16{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 1575px;
+	margin-top: 2741px;
+	color: #ffffff;
+	font-family: "3", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
 .physics1-1{pointer-events: none;
 	position: absolute;
 	margin-left: 50px;
@@ -185,7 +195,7 @@ b{
 		text-align:center;vertical-align:top}
 
 .tg3  {border-collapse:collapse;border-spacing:0;
-		margin-top: 2750px;
+		margin-top: 2850px;
 		margin-left: 1565px;
 		position: absolute;
 		width: 276px;}
@@ -197,7 +207,7 @@ b{
 		text-align:left;vertical-align:top}
 	
 .tg4  {border-collapse:collapse;border-spacing:0;
-		margin-top: 2850px;
+		margin-top: 2950px;
 		margin-left: 1565px;
 		position: absolute;
 		width: 276px;}
