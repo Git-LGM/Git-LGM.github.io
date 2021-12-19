@@ -22,6 +22,7 @@ b{
 	color: #B661FE;
 	font-family: "7", sans-serif !important;
 	text-align: center;
+	width: 210px;
 }
 .T2{
 	position: absolute;
@@ -41,6 +42,7 @@ b{
 	color: #FF7F7E;
 	font-family: "7", sans-serif !important;
 	text-align: center;
+	width: 210px;
 }
 .T4{
 	position: absolute;
@@ -60,6 +62,7 @@ b{
 	color: #FF7F7E;
 	font-family: "7", sans-serif !important;
 	text-align: center;
+	width: 150px;
 }
 .T6{
 	position: absolute;
@@ -79,6 +82,7 @@ b{
 	color: #FF7F7E;
 	font-family: "7", sans-serif !important;
 	text-align: center;
+	width: 210px;
 }
 .T8{
 	position: absolute;
@@ -93,11 +97,12 @@ b{
 .T2-1{
 	position: absolute;
 	font-size : 40px;
-	margin-left: 422px;
+	margin-left: 400px;
 	margin-top: 3000px;
 	color: #B661FE;
 	font-family: "7", sans-serif !important;
 	text-align: center;
+	width: 210px;
 }
 
 .physics1-1{pointer-events: none;
