@@ -1,3 +1,12 @@
+/*#5C85E0 하늘색
+#01FEFC민트색
+#75FAA8연두색
+#B661FE보라색
+#FF7F7E빨간색
+#F9FD63노란색*/
+
+@import url("../Fonts/s-core-dream.css"); 
+
 .physics1_banner{
 	position: absolute;
   margin-top: 780px;}
@@ -5,28 +14,108 @@
 b{
 	font-size : 30px;
 }
-
 .T1{
 	position: absolute;
-	font-size : 20px;
-	margin-left: 510px;
+	font-size : 50px;
+	margin-left: 855px;
 	margin-top: 1100px;
+	color: #B661FE;
+	font-family: "7", sans-serif !important;
+	text-align: center;
 }
+.T2{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 567px;
+	margin-top: 1200px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 750px;
+}
+.T3{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 340px;
+	margin-top: 1550px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+}
+.T4{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 40px;
+	margin-top: 1650px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 830px;
+}
+.T5{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 1380px;
+	margin-top: 1550px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+}
+.T6{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 1030px;
+	margin-top: 1650px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 830px;
+}
+.T7{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 960px;
+	margin-top: 2000px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+}
+.T8{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 400px;
+	margin-top: 2100px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 1300px;
+}
+.T2-1{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 422px;
+	margin-top: 3000px;
+	color: #B661FE;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+}
+
 .physics1-1{pointer-events: none;
 	position: absolute;
-	margin-left: 80px;
-	margin-top: 1100px;
+	margin-left: 50px;
+	margin-top: 3000px;
 	width: 300px;}
 .physics1-2{pointer-events: none;
 	position: absolute;
-	margin-left: 700px;
-	margin-top: 1100px;
+	margin-left: 650px;
+	margin-top: 3000px;
 	width: 300px;}
 .physics1-3{pointer-events: none;
 	position: absolute;
-	margin-left: 1300px;
-	margin-top: 1100px;
+	margin-left: 1250px;
+	margin-top: 3000px;
 	width: 300px;}
+
 video::-webkit-media-controls-panel {
 display: none !important;
 opacity: 1 !important;}
@@ -35,11 +124,11 @@ opacity: 1 !important;}
 
 .physics2_banner{
 	position: absolute;
-    margin-top: 1700px;}
+    margin-top: 3500px;}
 
 .physics2-1{pointer-events: none;
 	position: absolute;
 	margin-left: 80px;
-	margin-top: 2000px;}
+	margin-top: 3800px;}
 
 
