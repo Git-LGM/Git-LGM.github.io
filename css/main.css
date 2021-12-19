@@ -14,13 +14,13 @@ header{height:50px;
 body {background-color: #1D1C22;}
 
 h1{font-family: 'Noto Sans KR', sans-serif;
-margin-top: -2.5px}
+margin-top: -2.2px}
 
-.menu{margin-left: 75px;}
+.menu{margin-left: 61px;}
 .menu li{float:left;}
 .menu a{line-height:50px; color: black; 
   justify-content: space-between;
-  padding: 1.25px 30px; 
+  padding: 1.1px 30px; 
   display: block;}
 .menu a:hover, menu a:active{background-color: #8ad0ff;}
 
