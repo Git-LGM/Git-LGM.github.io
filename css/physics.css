@@ -158,7 +158,7 @@ b{
 	position: absolute;
 	font-size : 23px;
 	margin-left: 840px;
-	margin-top: 3700px;
+	margin-top: 4450px;
 	color: #f1f1f1;
 	font-family: "1", sans-serif !important;
 	text-align: center;
@@ -183,13 +183,13 @@ b{
 .physicsP{pointer-events: none;
 	position: absolute;
 	margin-left: 660px;
-	margin-top: 3230px;
+	margin-top: 3980px;
 	width: 600px;
 	z-index: 1;}
 .photozone{
 	position: absolute;
 	margin-left: 410px;
-	margin-top: 3102px;
+	margin-top: 3852px;
 	width: 1100px;
 	z-index: 0;}
 	
@@ -242,16 +242,57 @@ b{
 .tg4 .tg-4{background-color:#000000;border-color:#ffffff;color:#c161fe;font-family:"4", Helvetica, sans-serif !important;;
 		text-align:center;vertical-align:top}
 
+.T21{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 850px;
+	margin-top: 3370px;
+	color: #FF7F7E;	
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 230px;
+}
+.T22{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 30px;
+	margin-top: 3500px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 670px;
+}
+.T23{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 740px;
+	margin-top: 3500px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 640px;
+}
+.T24{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1415px;
+	margin-top: 3500px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+
 video::-webkit-media-controls-panel {
 display: none !important;
 opacity: 1 !important;}
 
 .physics2_banner{
 	position: absolute;
-    margin-top: 3800px;}
+    margin-top: 4590px;}
 
 .physics2-1{pointer-events: none;
 	position: absolute;
 	margin-left: 80px;
-	margin-top: 4100px;}
+	margin-top: 4900px;}
 

@@ -1,5 +1,233 @@
+/*#5C85E0 하늘색
+#01FEFC민트색
+#75FAA8연두색
+#B661FE보라색
+#FF7F7E빨간색
+#F9FD63노란색*/
+
+@import url("../Fonts/s-core-dream.css"); 
+video::-webkit-media-controls-panel {
+  display: none !important;
+  opacity: 1 !important;}
+
 .earth_banner{
 	position: absolute;
   margin-top: 780px;}
 
+.T1{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 855px;
+	margin-top: 1100px;
+	color: #B661FE;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 210px;
+}
+.T2{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 522px;
+	margin-top: 1200px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 880px;
+}
+.T3{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 340px;
+	margin-top: 1550px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 210px;
+}
+.T4{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 40px;
+	margin-top: 1650px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 830px;
+}
+.T5{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 1310px;
+	margin-top: 1550px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 150px;
+}
+.T6{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 940px;
+	margin-top: 1650px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 910px;
+}
+.T7{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 850px;
+	margin-top: 2100px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 210px;
+}
+.T8{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 100px;
+	margin-top: 2200px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 1700px;
+}
+.T11{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 730px;
+	margin-top: 3000px;
+	color: #75FAA8;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.earth1{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 3160px;
+	width: 830px;
+}
+.earth2{
+	position: absolute;
+	margin-left: 970px;
+	margin-top: 3160px;
+	width: 830px;
+}
+.earth3{
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 4152px;
+	width: 600px;
+}
+.earth4{
+	position: absolute;
+	margin-left: 1070px;
+	margin-top: 4152px;
+	width: 600px;
+}
+.T12{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 270px;
+	margin-top: 3814px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T13{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1160px;
+	margin-top: 3814px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T14{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 265px;
+	margin-top: 4780px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T15{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1145px;
+	margin-top: 4780px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T16{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 715px;
+	margin-top: 4000px;
+	color: #75FAA8;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
 
+.T21{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 850px;
+	margin-top: 4970px;
+	color: #75FAA8;	
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 230px;
+}
+.T22{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 100px;
+	margin-top: 5100px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 870px;
+}
+.T23{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1040px;
+	margin-top: 5100px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 740px;
+}
+.photozone{
+	position: absolute;
+	margin-left: 410px;
+	margin-top: 5450px;
+	width: 1100px;
+	z-index: 0;}
+.earthP{pointer-events: none;
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 5578px;
+	width: 600px;
+	z-index: 1;}
+.T24{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 837px;
+	margin-top: 6048px;
+	color: #f1f1f1;
+	font-family: "1", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}

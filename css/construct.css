@@ -6,10 +6,12 @@
 #F9FD63노란색*/
 
 @import url("../Fonts/s-core-dream.css");
-
+video::-webkit-media-controls-panel {
+	display: none !important;
+	opacity: 1 !important;}
 .construct1_banner{
 	position: absolute;
-  margin-top: 780px;}
+    margin-top: 780px;}
 
 .T1{
 	position: absolute;
@@ -286,11 +288,86 @@
 	text-align: left;
 	width: 1600px;
 }
+.T35{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 850px;
+	margin-top: 7150px;
+	color: #75FAA8;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 230px;
+}
+.T36{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 320px;
+	margin-top: 7790px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 630px;
+}
+.T37{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1195px;
+	margin-top: 7790px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 630px;
+}
+.T38{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 40px;
+	margin-top: 8490px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 630px;
+}
+.T39{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 700px;
+	margin-top: 8490px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 1070px;
+}
+.construct2-1{
+	position: absolute;
+	margin-top: 7300px;
+	margin-left: 100px;
+	height: 450px;}
+.construct2-2{
+	position: absolute;
+	margin-top: 7300px;
+	margin-left: 1200px;
+	height: 450px;}
+.construct2-3{
+	position: absolute;
+	margin-top: 8000px;
+	margin-left: 100px;
+	height: 450px;}
+.construct2-4{
+	position: absolute;
+	margin-top: 8000px;
+	margin-left: 680px;
+	height: 450px;}
+.construct2-5{
+	position: absolute;
+	margin-top: 8000px;
+	margin-left: 1180px;
+	height: 450px;}
 .T41{
 	position: absolute;
 	font-size : 50px;
 	margin-left: 850px;
-	margin-top: 8900px;
+	margin-top: 8800px;
 	color: #75FAA8;
 	font-family: "7", sans-serif !important;
 	text-align: center;
@@ -299,20 +376,42 @@
 .T42{
 	position: absolute;
 	font-size : 30px;
-	margin-left: 30px;
-	margin-top: 9000px;
+	margin-left: 230px;
+	margin-top: 8920px;
 	color: #ffffff;
 	font-family: "5", sans-serif !important;
 	text-align: center;
-	width: 450px;
+	width: 740px;
 }
 .T43{
 	position: absolute;
 	font-size : 30px;
-	margin-left: 500px;
-	margin-top: 9000px;
+	margin-left: 1000px;
+	margin-top: 8920px;
 	color: #ffffff;
 	font-family: "5", sans	-serif !important;
 	text-align: center;
-	width: 450px;
+	width: 500px;
+}
+.photozone2{
+	position: absolute;
+	margin-left: 410px;
+	margin-top: 9100px;
+	width: 1100px;
+	z-index: 0;}
+.construct2P{pointer-events: none;
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 9228px;
+	width: 600px;
+	z-index: 1;}
+.T44{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 837px;
+	margin-top: 9698px;
+	color: #f1f1f1;
+	font-family: "1", sans-serif !important;
+	text-align: center;
+	width: 250px;
 }
