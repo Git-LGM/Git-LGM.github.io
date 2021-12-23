@@ -294,5 +294,188 @@ opacity: 1 !important;}
 .physics2-1{pointer-events: none;
 	position: absolute;
 	margin-left: 80px;
-	margin-top: 4900px;}
+	margin-top: 5400px;}
 
+.physics2-2{
+	pointer-events: none;
+	margin-left: 150px;
+	position: absolute;
+    margin-top: 5030px;
+	width:600px;}
+
+.T31{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 920px;
+	margin-top: 4970px;
+	color: #B661FE;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 510px;
+}
+.T32{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 767px;
+	margin-top: 5070px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 850px;
+}
+.T33{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 1280px;
+	margin-top: 5300px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
+.T34{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 950px;
+	margin-top: 5400px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;	
+	text-align: center;
+	width: 930px;
+}
+.tg5  {border-collapse:collapse;border-spacing:0;margin-top: 5990px;margin-left:100px;position: absolute;width: 700px}
+.tg5 td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:37px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg5 th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:37px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg5 .tg-5{border-color:#ffffff;color:#b661fe;text-align:left;vertical-align:top;font-family: "4";}
+.T35{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 700px;
+	margin-top: 6500px;
+	color: #B661FE;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 500px;
+}
+.T36{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 567px;
+	margin-top: 6600px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 750px;
+}
+.T37{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 340px;
+	margin-top: 6750px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 210px;
+}
+.T38{
+	position: absolute;
+	font-size : 40px;
+	margin-left: 40px;
+	margin-top: 6850px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 830px;
+}
+.T39{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 810px;
+	margin-top: 7450px;
+	color: #FF7F7E;
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
+.T40{
+	position: absolute;	
+	font-size : 40px;
+	margin-left: 280px;
+	margin-top: 7550px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 1300px;
+}	
+.physics2-3{pointer-events: none;
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 6700px;}
+.physics2-4{pointer-events: none;
+	position: absolute;
+	margin-left: 1400px;
+	margin-top: 6700px;}
+.T41{
+	position: absolute;
+	font-size : 50px;
+	margin-left: 850px;
+	margin-top: 8170px;
+	color: #FF7F7E;	
+	font-family: "7", sans-serif !important;
+	text-align: center;
+	width: 230px;
+}
+.T42{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 30px;
+	margin-top: 8300px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 550px;
+}
+.T43{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 650px;
+	margin-top: 8300px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 550px;
+}
+.T44{
+	position: absolute;	
+	font-size : 30px;
+	margin-left: 1245px;
+	margin-top: 8300px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 550px;
+}
+.physics2P{pointer-events: none;
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 8780px;
+	width: 600px;
+	z-index: 1;}
+.photozone2{
+	position: absolute;
+	margin-left: 410px;
+	margin-top: 8652px;
+	width: 1100px;
+	z-index: 0;}
+.T45{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 840px;
+	margin-top: 9250px;
+	color: #f1f1f1;
+	font-family: "1", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
