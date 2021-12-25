@@ -1,4 +1,174 @@
+/*#5C85E0 하늘색
+#01FEFC민트색
+#75FAA8연두색
+#B661FE보라색
+#FF7F7E빨간색
+#F9FD63노란색*/
+
+@import url("../Fonts/s-core-dream.css"); 
+video::-webkit-media-controls-panel {
+  display: none !important;
+  opacity: 1 !important;}
+
 .coding_banner{
 	position: absolute;
   margin-top: 780px;}
 
+.T2{
+	position: absolute;
+	font-size : 70px;
+	margin-left: 222px;
+	margin-top: 1100px;
+	color: #ffffff;
+	font-family: "8", sans-serif !important;
+	text-align: center;
+	width: 1480px;
+}
+.T10{
+	position: absolute;
+	font-size : 70px;
+	margin-left: 730px;
+	margin-top: 1770px;
+	color: #B661FE;
+	font-family: "9", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.coding1{
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 1900px;
+	height: 540px;
+}
+.coding2{
+	position: absolute;
+	margin-left: 1040px;
+	margin-top: 1900px;
+	height: 540px;
+}
+.coding3{
+	position: absolute;
+	margin-left: 960px;
+	margin-top: 2960px;
+	height: 660px;
+  }
+.coding4{
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 4120px;
+	height: 660px;
+  }
+.coding5{
+	position: absolute;
+	margin-left: 960px;
+	margin-top: 4120px;
+	height: 660px;
+  }
+.coding6{
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 2960px;
+	height: 660px;
+}
+.T12{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 320px;
+	margin-top: 2460px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T13{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1230px;
+	margin-top: 2460px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T14{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 275px;
+	margin-top: 3640px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T15{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1185px;
+	margin-top: 3640px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T11{
+	position: absolute;
+	font-size : 70px;
+	margin-left: 720px;
+	margin-top: 2830px;
+	color: #F9FD63;
+	font-family: "9", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T16{
+	position: absolute;
+	font-size : 70px;
+	margin-left: 730px;
+	margin-top: 3980px;
+	color: #75FAA8;
+	font-family: "9", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T17{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 275px;
+	margin-top: 4800px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 450px;
+}
+.T18{
+	position: absolute;
+	font-size : 30px;
+	margin-left: 1078px;
+	margin-top: 4800px;
+	color: #ffffff;
+	font-family: "5", sans-serif !important;
+	text-align: center;
+	width: 650px;
+}
+.photozone{
+	position: absolute; 
+	margin-left: 410px;
+	margin-top: 5050px;
+	width: 1100px;
+	z-index: 0;}
+.codingP{pointer-events: none;
+	position: absolute;
+	margin-left: 660px;
+	margin-top: 5178px;
+	width: 600px;
+	z-index: 1;}
+.T24{
+	position: absolute;
+	font-size : 23px;
+	margin-left: 837px;
+	margin-top: 5648px;
+	color: #f1f1f1;
+	font-family: "1", sans-serif !important;
+	text-align: center;
+	width: 250px;
+}
